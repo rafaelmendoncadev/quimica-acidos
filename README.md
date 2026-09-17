@@ -1,6 +1,8 @@
-﻿# Química Fácil — Ácidos | 2º Ano do Ensino Médio
+# Química Fácil — Ácidos | 2º Ano do Ensino Médio
 
 Plataforma educacional completa, interativa e gamificada focada no estudo aprofundado de **Ácidos** para estudantes do 2º ano do Ensino Médio e vestibulandos (ENEM, Fuvest, Unicamp).
+
+🌐 **Acesse online:** [quimica-acidos.vercel.app](https://quimica-acidos.vercel.app)
 
 ---
 
